@@ -65,6 +65,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ido/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/xiaomi/ido/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/xiaomi/ido/proprietary/vendor/lib64/libbtnv.so:system/vendor/lib64/libbtnv.so \
+    vendor/xiaomi/ido/proprietary/bin/vm_bms:system/bin/vm_bms \
     vendor/xiaomi/ido/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/xiaomi/ido/proprietary/lib/hw/camera.vendor.msm8916.so:system/lib/hw/camera.vendor.msm8916.so \
     vendor/xiaomi/ido/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
